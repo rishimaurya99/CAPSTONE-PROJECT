@@ -1,4 +1,4 @@
-## About Dataset ###
+## Overview ###
 We build a public available SARS-CoV-2 CT scan dataset, containing 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total. These data have been collected from real patients in hospitals from Sao Paulo, Brazil. The aim of this dataset is to encourage the research and development of artificial intelligent methods which are able to identify if a person is infected by SARS-CoV-2 through the analysis of his/her CT scans. As baseline result for this dataset we used an eXplainable Deep Learning approach (xDNN) which we could achieve an F1 score of 97.31% which is very promising
 
                                          Covid 
